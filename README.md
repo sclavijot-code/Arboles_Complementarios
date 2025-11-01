@@ -1,8 +1,9 @@
 # Arboles_Complementarios
 
-Autor: 
+Autores: 
 
 Sebastian Clavijo Tocasuchyl
+Nicolas Caucali Junco
 
 
 Objetivo:
