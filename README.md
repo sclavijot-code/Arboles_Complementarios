@@ -35,16 +35,20 @@ Un compañero en clase dio la idea de podar las hojas que estaban en un árbol p
 Estructuras usadas:
 
 Árbol binario (Clase nodo)
+
 Valor (el entero del nodo) y dos punteros, izquierdo y derecho, que apuntan a otro objeto Nodo o a None.
 
 set 
+
 Esta es la estructura para la eficiencia del algoritmo. Se usa de dos maneras:
 Para guardar todos los valores que existen en un árbol y comprobar si un valor existe. También para crear un set de tuplas para poder encontrar qué secuencias tienen en común con la intersección.
 
 tuple 
+
 Se usó para representar una secuencia de hojas individuales. Se prefirió tuple en lugar de list por una razón, los set de Python sólo pueden almacenar objetos inmutables, las tuplas son inmutables y el perfecto reemplazo de las listas.
 
 list 
+
 Al final se toma la dupla ganadora de la intersección y la convierte en una lista antes de devolverla, ya que es un formato fácil de manejar.
 
 
