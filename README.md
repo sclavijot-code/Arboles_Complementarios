@@ -2,7 +2,7 @@
 
 Autores: 
 
-Sebastian Clavijo Tocasuchyl
+Sebastian Clavijo Tocasuchyl //
 Nicolas Caucali Junco
 
 
